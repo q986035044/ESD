@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=NetC11_1 Pin=S1-2
+Removed Member From Class: ClassName=Sheet1 Member=S1
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.4 New Footprint=R0805_L
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=0R
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=0R
+Change Component Comment : Designator=R8 Old Comment=Res2 New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=Res2 New Comment=510R
+Change Component Comment : Designator=R6 Old Comment=Res2 New Comment=510R
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.4"; UniqueID = "\LEVSWYQH" ("\LEVSWYQH")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "AXIAL-0.4"; UniqueID = "\XSBHIWTY" ("\XSBHIWTY")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "AXIAL-0.4"; UniqueID = "\HCBVUWRF" ("\HCBVUWRF")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "AXIAL-0.4"; UniqueID = "\UKSTKLGJ" ("\UKSTKLGJ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "AXIAL-0.4"; UniqueID = "\NHFNNTKM" ("\NHFNNTKM")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "AXIAL-0.4"; UniqueID = "\OTECFKUL" ("\OTECFKUL")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "AXIAL-0.4"; UniqueID = "\THVYDKPA" ("\THVYDKPA")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "AXIAL-0.4"; UniqueID = "\QWFTLVPZ" ("\QWFTLVPZ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=*1(R100)
+Add component (AddParameter): Name = "BOM名称"; Value = "探针焊盘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW SMD-3*6*2.5)
+Add component (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetC11_1 Pin=SW1-2
+Added Member To Class: ClassName=Sheet1 Member=Component *1 CS
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 3x6x5
+Added Room: Name=Sheet1

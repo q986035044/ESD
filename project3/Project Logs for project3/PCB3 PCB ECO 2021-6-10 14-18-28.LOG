@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=E2 Old Footprint=CE A(3*5.4) New Footprint=C_3216
+Change component parameters: Designator = "E2" ("E2"); Footprint = "CE A(3*5.4)"; UniqueID = "\GPLOCSGW" ("\GPLOCSGW")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet3 Member=Component SW14 6x6x5

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PE12/LED0 Pin=D2-2
+Added Pin To Net: NetName=PE13/LED1 Pin=D3-2
+Added Pin To Net: NetName=PE14/LED2 Pin=D4-2
+Added Pin To Net: NetName=PE15/LED3 Pin=D5-2

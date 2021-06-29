@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R4-2
+Change Component Footprint: Designator=X1 Old Footprint=OSC HC-49S New Footprint=OSC 455E-LI
+Change Component Footprint: Designator=X2 Old Footprint=OSC HC-49S New Footprint=OSC 6035-2P
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-94
+Added Net: Name=NetR4_2

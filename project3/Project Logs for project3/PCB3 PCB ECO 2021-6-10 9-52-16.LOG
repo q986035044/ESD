@@ -1,0 +1,6 @@
+Added Component: Designator=SW14(SW DIP-6*6*6)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插6x6轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB6/KEY_Y_0 Pin=SW14-3
+Added Pin To Net: NetName=PE3/KEY_X_1 Pin=SW14-4
+Added Member To Class: ClassName=Sheet3 Member=Component SW14 6x6x5

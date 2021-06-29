@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND-SMD_L7.0-W6.6 New Footprint=IND-SMD_L10.5-W10.3
+Change Component Footprint: Designator=L2 Old Footprint=IND-SMD_L7.0-W6.6 New Footprint=IND-SMD_L10.5-W10.3
+Change Component Footprint: Designator=L3 Old Footprint=IND-SMD_L7.0-W6.6 New Footprint=IND-SMD_L12.5-W12.5_SCDS125
+Change Component Footprint: Designator=L5 Old Footprint=IND-SMD_L7.0-W6.6 New Footprint=IND-SMD_L12.5-W12.5_SCDS125

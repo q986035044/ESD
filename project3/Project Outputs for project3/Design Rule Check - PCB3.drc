@@ -1,0 +1,95 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\galaxy\Desktop\project3\PCB3.PcbDoc
+Date     : 2021/6/25
+Time     : 17:12:48
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad SW10-1(3136.142mil,1288.583mil) on Multi-Layer And Pad SW10-4(3403.858mil,1288.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE3/KEY_X_1
+   Violation between Short-Circuit Constraint: Between Pad SW10-2(3136.142mil,1111.417mil) on Multi-Layer And Pad SW10-3(3403.858mil,1111.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB7/KEY_Y_1
+   Violation between Short-Circuit Constraint: Between Pad SW1-1(2271.142mil,1608.583mil) on Multi-Layer And Pad SW1-4(2538.858mil,1608.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: PE2/KEY_X_0 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW11-1(3136.142mil,2258.583mil) on Multi-Layer And Pad SW11-4(3403.858mil,2258.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE4/KEY_X_2
+   Violation between Short-Circuit Constraint: Between Pad SW11-2(3136.142mil,2081.417mil) on Multi-Layer And Pad SW11-3(3403.858mil,2081.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB7/KEY_Y_1
+   Violation between Short-Circuit Constraint: Between Pad SW1-2(2271.142mil,1431.417mil) on Multi-Layer And Pad SW1-3(2538.858mil,1431.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: PB9/KEY_Y_3 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW12-1(3136.142mil,1933.583mil) on Multi-Layer And Pad SW12-4(3403.858mil,1933.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE5/KEY_X_3
+   Violation between Short-Circuit Constraint: Between Pad SW12-2(3136.142mil,1756.417mil) on Multi-Layer And Pad SW12-3(3403.858mil,1756.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB7/KEY_Y_1
+   Violation between Short-Circuit Constraint: Between Pad SW13-1(3546.142mil,1608.583mil) on Multi-Layer And Pad SW13-4(3813.858mil,1608.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE2/KEY_X_0
+   Violation between Short-Circuit Constraint: Between Pad SW13-2(3546.142mil,1431.417mil) on Multi-Layer And Pad SW13-3(3813.858mil,1431.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB6/KEY_Y_0
+   Violation between Short-Circuit Constraint: Between Pad SW14-1(3546.142mil,1288.583mil) on Multi-Layer And Pad SW14-4(3813.858mil,1288.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: PE3/KEY_X_1 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW14-2(3546.142mil,1111.417mil) on Multi-Layer And Pad SW14-3(3813.858mil,1111.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: PB6/KEY_Y_0 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW15-1(3541.142mil,2258.583mil) on Multi-Layer And Pad SW15-4(3808.858mil,2258.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE4/KEY_X_2
+   Violation between Short-Circuit Constraint: Between Pad SW15-2(3541.142mil,2081.417mil) on Multi-Layer And Pad SW15-3(3808.858mil,2081.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB6/KEY_Y_0
+   Violation between Short-Circuit Constraint: Between Pad SW16-1(3546.142mil,1933.583mil) on Multi-Layer And Pad SW16-4(3813.858mil,1933.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE5/KEY_X_3
+   Violation between Short-Circuit Constraint: Between Pad SW16-2(3546.142mil,1756.417mil) on Multi-Layer And Pad SW16-3(3813.858mil,1756.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB6/KEY_Y_0
+   Violation between Short-Circuit Constraint: Between Pad SW2-1(2271.142mil,1288.583mil) on Multi-Layer And Pad SW2-4(2538.858mil,1288.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE3/KEY_X_1
+   Violation between Short-Circuit Constraint: Between Pad SW2-2(2271.142mil,1111.417mil) on Multi-Layer And Pad SW2-3(2538.858mil,1111.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB9/KEY_Y_3
+   Violation between Short-Circuit Constraint: Between Pad SW3-1(2271.142mil,2258.583mil) on Multi-Layer And Pad SW3-4(2538.858mil,2258.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE4/KEY_X_2
+   Violation between Short-Circuit Constraint: Between Pad SW3-2(2271.142mil,2081.417mil) on Multi-Layer And Pad SW3-3(2538.858mil,2081.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB9/KEY_Y_3
+   Violation between Short-Circuit Constraint: Between Pad SW4-1(2271.142mil,1933.583mil) on Multi-Layer And Pad SW4-4(2538.858mil,1933.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE5/KEY_X_3
+   Violation between Short-Circuit Constraint: Between Pad SW4-2(2271.142mil,1756.417mil) on Multi-Layer And Pad SW4-3(2538.858mil,1756.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB9/KEY_Y_3
+   Violation between Short-Circuit Constraint: Between Pad SW5-1(2711.142mil,1608.583mil) on Multi-Layer And Pad SW5-4(2978.858mil,1608.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: PE2/KEY_X_0 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW5-2(2711.142mil,1431.417mil) on Multi-Layer And Pad SW5-3(2978.858mil,1431.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: PB8/KEY_Y_2 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW6-1(2711.142mil,1288.583mil) on Multi-Layer And Pad SW6-4(2978.858mil,1288.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE3/KEY_X_1
+   Violation between Short-Circuit Constraint: Between Pad SW6-2(2711.142mil,1111.417mil) on Multi-Layer And Pad SW6-3(2978.858mil,1111.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB8/KEY_Y_2
+   Violation between Short-Circuit Constraint: Between Pad SW7-1(2711.142mil,2258.583mil) on Multi-Layer And Pad SW7-4(2978.858mil,2258.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE4/KEY_X_2
+   Violation between Short-Circuit Constraint: Between Pad SW7-2(2711.142mil,2081.417mil) on Multi-Layer And Pad SW7-3(2978.858mil,2081.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB8/KEY_Y_2
+   Violation between Short-Circuit Constraint: Between Pad SW8-1(2711.142mil,1933.583mil) on Multi-Layer And Pad SW8-4(2978.858mil,1933.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: (No Net) and PE5/KEY_X_3
+   Violation between Short-Circuit Constraint: Between Pad SW8-2(2711.142mil,1756.417mil) on Multi-Layer And Pad SW8-3(2978.858mil,1756.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: (No Net) and PB8/KEY_Y_2
+   Violation between Short-Circuit Constraint: Between Pad SW9-1(3136.142mil,1608.583mil) on Multi-Layer And Pad SW9-4(3403.858mil,1608.583mil) on Multi-Layer Pads have the same JumperID: 1 but different Nets: PE2/KEY_X_0 and (No Net)
+   Violation between Short-Circuit Constraint: Between Pad SW9-2(3136.142mil,1431.417mil) on Multi-Layer And Pad SW9-3(3403.858mil,1431.417mil) on Multi-Layer Pads have the same JumperID: 2 but different Nets: PB7/KEY_Y_1 and (No Net)
+Rule Violations :32
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=20mil) (InNet('5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=20mil) (InNet('12V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=20mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=20mil) (InNet('3V3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=20mil) (InNet('4V2'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 32
+Waived Violations : 0
+Time Elapsed        : 00:00:02

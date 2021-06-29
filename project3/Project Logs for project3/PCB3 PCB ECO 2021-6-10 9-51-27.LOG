@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PE3/KEY_X_1 Pin=SW14-1
+Removed Pin From Net: NetName=PB6/KEY_Y_0 Pin=SW14-3
+Removed Pin From Net: NetName=PE3/KEY_X_1 Pin=SW14-4
+Removed Member From Class: ClassName=Sheet3 Member=SW14

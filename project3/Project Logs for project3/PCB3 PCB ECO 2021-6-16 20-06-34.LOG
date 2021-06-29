@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=5V Pin=P9-1
+Added Pin To Net: NetName=5V Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P9-4
+Added Pin To Net: NetName=12V Pin=P10-1
+Added Pin To Net: NetName=12V Pin=P10-2
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Pin To Net: NetName=5V Pin=R23-2
+Added Pin To Net: NetName=12V Pin=R24-2
+Added Member To Class: ClassName=Sheet3 Member=Component E1 100uF/50V

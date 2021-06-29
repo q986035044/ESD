@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\galaxy\Desktop\PCB_Project\Project Outputs for PCB_Project\Pick Place for project.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/05/21
+Time:       17:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint      Center-X(mil) Center-Y(mil) Rotation Description                                                                                                        
+X2         32.768K       TopLayer OSC_6035-2P    2300.000      2445.000      90       2½ÅÎÞÔ´½Å¾§Õñ                                                                                                            
+X1         8MHz          TopLayer OSC_455E-LI    2785.000      3425.000      90       2½ÅÎÞÔ´½Å¾§Õñ                                                                                                            
+V1         AMS1117-3V3   TopLayer SOT89_L        5054.055      2270.981      180      Èý¶ËÎÈÑ¹Ð¾Æ¬                                                                                                             
+USB1       USB-5P        TopLayer USB-MICRO_A    5710.000      1967.913      180      Î¢ÐÍUSBÄ¸×ù                                                                                                            
+U1         STM32F407VET6 TopLayer LQFP100_V      3490.000      3415.000      0        "ARM Cortex-M4 32b MCU+FPU, 210DMIP, 512 kB Flash, 192+4 kB RAM, Camera, 82 I/Os, 100-pin LQFP, -40 to +85°C, Tray" 
+SW1        3x6x5         TopLayer SW_SMD-3*6*2.5 6264.607      3636.157      270      Î¢¶¯¿ª¹Ø                                                                                                               
+R8         1K            TopLayer R0805_L        3000.004      3419.997      90       ÌùÆ¬µç×è                                                                                                               
+R7         10K           TopLayer R0805_L        6019.996      3505.003      270      ÌùÆ¬µç×è                                                                                                               
+R6         510R          TopLayer R0805_L        5765.003      4250.004      180      ÌùÆ¬µç×è                                                                                                               
+R5         510R          TopLayer R0805_L        5540.003      4250.004      180      ÌùÆ¬µç×è                                                                                                               
+R4         10K           TopLayer R0805_L        6000.004      3764.996      90       ÌùÆ¬µç×è                                                                                                               
+R3         0R            TopLayer R0805_L        5005.004      3239.997      90       ÌùÆ¬µç×è                                                                                                               
+R2         10K           TopLayer R0805_L        3470.004      2874.997      90       ÌùÆ¬µç×è                                                                                                               
+R1         0R            TopLayer R0805_L        4755.004      3239.997      90       ÌùÆ¬µç×è                                                                                                               
+P7         JP6           TopLayer HDR1X4         1795.000      2065.000      90       "Header, 4-Pin"                                                                                                    
+P6         JP3           TopLayer HDR1X4         1790.000      3280.000      90       "Header, 4-Pin"                                                                                                    
+P5         JP1           TopLayer HDR1X4         1810.000      4300.000      90       "Header, 4-Pin"                                                                                                    
+P4         JP2           TopLayer HDR1X10        4345.000      3380.000      90       "Header, 10-Pin"                                                                                                   
+P3         JP5           TopLayer HDR2X20        3630.000      1955.000      360      "Header, 20-Pin, Dual row"                                                                                         
+P2         JP4           TopLayer HDR2X20        3765.000      4395.000      360      "Header, 20-Pin, Dual row"                                                                                         
+P1         JP7           TopLayer HDR2X4         2220.000      3430.000      90       "Header, 4-Pin, Dual row"                                                                                          
+LED2       LED           TopLayer LED_5MM-W      5749.764      4435.236      180      ·¢¹â¶þ¼«¹Ü                                                                                                              
+LED1       LED           TopLayer LED_5MM-W      5537.806      4435.236      180      ·¢¹â¶þ¼«¹Ü                                                                                                              
+C22        104           TopLayer C0805_L        5080.003      2550.004      180      ÌùÆ¬µçÈÝ                                                                                                               
+C21        106           TopLayer C0805_L        5080.003      2780.004      180      ÌùÆ¬µçÈÝ                                                                                                               
+C20        104           TopLayer C0805_L        5215.004      1974.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C19        106           TopLayer C0805_L        4905.004      1974.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C18        104           TopLayer C0805_L        1994.996      4410.003      270      ÌùÆ¬µçÈÝ                                                                                                               
+C17        12pF          TopLayer C0805_L        2485.004      2279.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C16        12pF          TopLayer C0805_L        2485.004      2504.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C15        2.2uF         TopLayer C0805_L        5645.004      3529.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C14        22pF          TopLayer C0805_L        2514.996      3315.003      270      ÌùÆ¬µçÈÝ                                                                                                               
+C13        2.2uF         TopLayer C0805_L        5880.004      3764.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C12        22pF          TopLayer C0805_L        2515.004      3569.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C11        104           TopLayer C0805_L        5645.004      3779.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C10        104           TopLayer C0805_L        5365.828      3627.854      90       ÌùÆ¬µçÈÝ                                                                                                               
+C9         104           TopLayer C0805_L        5365.828      3769.712      90       ÌùÆ¬µçÈÝ                                                                                                               
+C8         104           TopLayer C0805_L        5365.828      3911.570      90       ÌùÆ¬µçÈÝ                                                                                                               
+C7         104           TopLayer C0805_L        5365.828      3485.996      90       ÌùÆ¬µçÈÝ                                                                                                               
+C6         104           TopLayer C0805_L        5365.828      3060.421      90       ÌùÆ¬µçÈÝ                                                                                                               
+C5         104           TopLayer C0805_L        5365.828      3202.279      90       ÌùÆ¬µçÈÝ                                                                                                               
+C4         104           TopLayer C0805_L        5365.828      3344.138      90       ÌùÆ¬µçÈÝ                                                                                                               
+C3         106           TopLayer C0805_L        5000.004      3479.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C2         104           TopLayer C0805_L        4870.004      3484.997      90       ÌùÆ¬µçÈÝ                                                                                                               
+C1         104           TopLayer C0805_L        4749.996      3485.003      270      ÌùÆ¬µçÈÝ                                                                                                               
